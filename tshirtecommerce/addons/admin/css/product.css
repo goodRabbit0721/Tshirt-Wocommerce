@@ -1,0 +1,39 @@
+.product-elm-list .input-group-btn button:first-child {
+  outline: medium none;
+  text-align: left;
+  width: 84%;
+}
+.product-elm-list .input-group-btn .dropdown-menu{
+float: right;
+left: auto;
+right: 0;
+}
+.product-elm-list button.btn.active {
+  background-color: #5cb85c;
+  color: #fff;
+}
+#layers li.layer{
+background:none;
+}
+#layers .layer.active {
+  background: #5cb85c none repeat scroll 0 0;
+  border: 1px solid #666;
+  color: #fff;
+}
+#product-designer .modal-header button.close{
+position: absolute;
+right: 10px;
+top: 10px;
+z-index: 1;
+}
+#product-designer-options {
+  height: 500px;
+  overflow: auto;
+  position: relative;
+}
+#product-designer-options .ps-scrollbar-x-rail{display:none;}
+#product-designer-options .ps-scrollbar-y-rail {
+  cursor: pointer;
+  display: block;
+  opacity: 1;
+}

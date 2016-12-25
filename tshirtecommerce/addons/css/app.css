@@ -1,0 +1,27 @@
+.no-border{border:0!important}
+.mask-items-view{display:none;float:left;height:500px;left:0;position:absolute;top:0;width:500px}
+.mask-items-area{float:left;position:relative;z-index:auto!important}
+.mask-item{border:1px solid #ccc;cursor:move!important;float:left;margin:1px;opacity:1!important;position:absolute;z-index:1000!important}
+.design-area .drag-item-selected div{visibility:hidden}
+.design-area .drag-item{border-color:transparent!important}
+.design-area .content-inner{overflow:hidden}
+.mask-items-area .mask-item div{background-color:#fff;border:1px solid #777;border-radius:2px;box-shadow:0 0 1px 1px #999;display:block;height:20px;position:absolute;width:20px}
+.item-mask-remove-on{bottom:-20px;cursor:pointer;left:-20px}
+.item-mask-remove-on.fa::before{color:#000;font-size:13px;line-height:20px}
+.mask-items-area .mask-item div.item-rotate-on::before{color:#333;font-size:13px;margin-top:-5px}
+.mask-items-area .mask-item span.item-info{background-color:#fff;border:1px solid #989898;border-radius:2px;box-shadow:0 0 3px 1px #989898;color:#000;display:inline-block;font-size:9px;left:auto;min-width:65px;padding:2px 4px;position:relative;text-align:center;top:-41px}
+.mask-items-area .mask-item div.item-mask-move{color:#333;left:-20px;top:-20px}
+.mask-items-area .mask-item div.item-mask-move::before{color:#333;font-size:12px;line-height:19px}
+#options-add_item_qrcode{min-height:auto}
+#qrcode-img{cursor:pointer;padding-top:10px}
+.layers-control{position:absolute}
+.drag-item svg{overflow:visible!important}
+.list-design-saved .design-box a{position:relative;display:block}
+.list-design-saved .design-box a span{text-align:center;position:absolute;bottom:0;background-color:rgba(0,0,0,0.5);display:block;color:#fff;left:1px;border-radius:0 0 4px 4px;padding:6px 0;right:1px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.list-design-saved .design-box a span small{padding:0 4px}
+#product-list-colors .bg-colors > a{float:left;height:25px}
+.product-price-info{clear:both;display:none;float:left;text-align:left;padding:4px 9px;border-top:1px dashed #f1f1f1;width:100%;margin-top:10px;font-weight:700}
+.product-price-info span.label{margin-right:4px}
+#dg-preview .modal-body{max-height: 500px;width:100%;overflow:auto;}
+#dg-preview .carousel {height: auto;overflow: visible;}
+#loading-change-product{display:none;}

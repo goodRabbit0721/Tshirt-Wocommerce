@@ -1,0 +1,18 @@
+.context-menu-list{margin:0;padding:2px;min-width:120px;max-width:250px;display:inline-block;position:absolute;list-style-type:none;border:1px solid #DDD;background:#F0F0F0 url(../images/menu_bg.gif) left repeat-y;-webkit-box-shadow:0 1px 4px #CCC;-moz-box-shadow:0 1px 4px #CCC;-ms-box-shadow:0 1px 4px #CCC;-o-box-shadow:0 1px 4px #CCC;box-shadow:0 1px 4px #CCC;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px}
+.context-menu-item{padding:5px 3px 5px 7px;color:#007AFF;position:relative;-webkit-user-select:none;-moz-user-select:-moz-none;-ms-user-select:none;user-select:none}
+.context-menu-item > span{color:#333;font-size:12px;padding-left:12px}
+.context-menu-separator{background-color:#D0CFCF;border-bottom:1px solid #FFF;padding-top:1px;padding-bottom:0}
+.context-menu-item > label > input,.context-menu-item > label > textarea{-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text}
+.context-menu-item.hover{cursor:pointer;background:url(../images/m_item.gif) repeat-x bottom!important;border:1px solid #AACCF6;padding:4px 2px 4px 6px}
+.context-menu-item.disabled{color:#666}
+.context-menu-input.hover,.context-menu-item.disabled.hover{cursor:default;background:#EEE;color:#fff}
+.context-menu-submenu:after{content:">";color:#666;position:absolute;top:0;right:3px;z-index:1}
+.context-menu-item.icon{display:block;min-height:18px;background-repeat:no-repeat;background-position:4px 2px}
+.context-menu-input > label > *{vertical-align:top}
+.context-menu-input > label > input[type="checkbox"],.context-menu-input > label > input[type="radio"]{margin-left:-17px}
+.context-menu-input > label > span{margin-left:5px}
+.context-menu-input > label,.context-menu-input > label > input[type="text"],.context-menu-input > label > textarea,.context-menu-input > label > select{display:block;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box}
+.context-menu-input > label > textarea{height:100px}
+.context-menu-item > .context-menu-list{display:none;right:-5px;top:5px}
+.context-menu-item.hover > .context-menu-list{display:block}
+.context-menu-accesskey{text-decoration:underline}

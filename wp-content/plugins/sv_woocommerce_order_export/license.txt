@@ -1,0 +1,7 @@
+This plugin is comprised of different parts. 
+
+Some third party modules have other licenses which allow use into this plugin. Licenses are available in sourcecode of the files or within a license text document.
+
+All other parts are licensed according to the license purchased from Envato. Please note that we require to output a copyright notice for some competitors. You are not allowed to remove or modifiy that notice. If you are affected by this and disagree, contact us within 30 days after purchase for a full refund. Please note you are not allowed to use the software any longer once refund is fulfilled.
+
+Read more about licensing here: http://themeforest.net/licenses

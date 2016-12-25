@@ -1,0 +1,36 @@
+/**
+ * @author tshirtecommerce - www.tshirtecommerce.com
+ * @date: 2016-02-22
+ * 
+ * @copyright  Copyright (C) 2015 tshirtecommerce.com. All rights reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE
+ *
+ */
+ .feeds-panel a, #feeds-content a { outline: 0 none; text-decoration: none;}
+ .feeds-content .feeds-title {
+	 font-weight: bold;
+ }
+ .feeds-panel, .btn-feed-news {
+	 background-color: #fff!important;
+	 background-image: none!important;
+	 padding-left: 15px!important;
+	 line-height: 1.7em!important;
+ }
+ .feeds-content {
+	 margin-top: 5px;
+	 text-align:justify;
+	 line-height: 1.7;
+ }
+ .feeds-content, .feeds-date {
+	 color: #777;
+ }
+ .feeds-date {
+	 margin-left: 12px;
+ }
+ .feeds-detail {
+	 color: #555;
+	 font-size:14px;
+	 line-height:1.6;
+	 text-align:justify;
+ }
+#feeds-content {padding-bottom:2px;padding-top:10px;}

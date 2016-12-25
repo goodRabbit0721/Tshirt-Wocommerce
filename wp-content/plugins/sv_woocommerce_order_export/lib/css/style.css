@@ -1,0 +1,37 @@
+#sv_woocommerce_order_export_settings, #sv_woocommerce_order_export_settings *{
+	box-sizing:border-box;
+}
+#sv_woocommerce_order_export_settings:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+#sv_woocommerce_order_export_settings tbody{
+	border:1px solid #000;
+}
+#sv_woocommerce_order_export_settings td{
+	border:1px solid #CCC;
+	margin:1px;
+	padding:3px 50px;
+}
+#sv_woocommerce_order_export_settings ul{
+	list-style-type:disc;
+}
+.sv_woocommerce_order_export_settings_column{
+	float:left;
+	margin-right:50px;
+}
+.sv_woocommerce_order_export_field{
+	cursor:move;
+}
+.sv_woocommerce_order_export_field:hover{
+	background-color:rgba(200,200,200,0.5);
+	overflow:visible;
+}
+#sv_woocommerce_order_export_global_settings{
+	margin-bottom:30px;
+	overflow:hidden;
+}
+#sv_woocommerce_order_export_user_settings{
+	clear:both;
+}

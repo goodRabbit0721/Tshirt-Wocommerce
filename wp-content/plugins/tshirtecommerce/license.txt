@@ -1,0 +1,105 @@
+Copyright (c) 2015, tshirtecommerce.com.
+All rights reserved.
+
+-------------------------------------------------------------------------------
+Thank you for choosing the T-Shirt eCommerce.
+-------------------------------------------------------------------------------
+
+T-shirt eCommerce is online solution of customizing various type of 
+products like T-shirt, Laptop Skin, Cap, Phone case, Bags, Mugs…
+================================================================================
+
+-------------------------------------------------------------------------------
+INSTALLATION & INSTRUCTIONS
+-------------------------------------------------------------------------------
+Please unzip file documentation.zip and open file index.html. It is all document
+You can see document online on website http://tshirtecommerce.com/
+================================================================================
+
+
+-------------------------------------------------------------------------------
+COPYRIGHT
+-------------------------------------------------------------------------------
+T-Shirt eCommerce website http://tshirtecommerce.com
+Copyright 2015, T-Shirt eCommerce (http://tshirtecommerce.com)
+
+You must have purchased a valid license from CodeCanyon in order to have 
+the permission to use this file.
+
+You may only use this software according to the respective licensing terms 
+you agreed to when purchasing this item on CodeCanyon.
+
+
+Author: T-Shirt eCommerce info@tshirtecommerce.com
+Copyright: Copyright 2015, T-Shirt eCommerce (http://tshirtecommerce.com)
+Link: http://tshirtecommerce.com
+================================================================================
+
+
+-------------------------------------------------------------------------------
+LICENSE AGREEMENT
+-------------------------------------------------------------------------------
+This is the end-user license agreement for the T-Shirt eCommerce and 
+all of its additional plugins (hereafter referred to as SOFTWARE PRODUCT).
+
+Please read the terms and conditions of this license agreement carefully before 
+continuing with this installation: T-Shirt eCommerce End-User License Agreement 
+("EULA") is a legal agreement between you (either an individual or a single 
+entity) and T-Shirt eCommerce for this software product.
+
+You must have purchased a valid license from CodeCanyon in order to have the 
+permission to use this file.
+
+You may only use this software according to the respective licensing terms you 
+agreed to when purchasing this item on CodeCanyon.
+
+1. Description of Other Rights and Limitations.
+(a) Support Services.
+T-Shirt eCommerce may provide you with support services related to the SOFTWARE 
+PRODUCT ("Support Services"). Any supplemental software code provided to you as 
+part of the Support Services shall be considered part of the SOFTWARE PRODUCT 
+and subject to the terms and conditions of this EULA.
+
+(b) Compliance with Applicable Laws.
+You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.
+
+2. No Warranties
+T-Shirt eCommerce expressly disclaims any warranty for the SOFTWARE PRODUCT. The 
+SOFTWARE PRODUCT is provided 'As Is' without any express or implied warranty of 
+any kind, including but not limited to any warranties of merchantability, 
+noninfringement, or fitness of a particular purpose. T-Shirt eCommerce does not 
+warrant or assume responsibility for the accuracy or completeness of any 
+information, text, graphics, links or other items contained within the SOFTWARE 
+PRODUCT. T-Shirt eCommerce further expressly disclaims any warranty or representation 
+to Authorized Users or to any third party.
+================================================================================
+
+
+-------------------------------------------------------------------------------
+CREDITS
+-------------------------------------------------------------------------------
+Third Party Components: Credits
+This application was made possible with the help of various third party 
+components. For a list of attributions, please see below.
+
+Bootstrap
+License: Apache License v3.3 
+Path: license\LICENSE_Bootstrap.txt 
+Website: http://getbootstrap.com/ 
+
+jQuery
+License: MIT License 
+Path: license\LICENSE_jQuery.txt 
+Website: http://jquery.com/ 
+
+jQuery UI
+License: MIT License 
+Path: license\LICENSE_jQueryUI.txt  
+Website: http://jqueryui.com/ 
+
+
+TinyMCE
+The fantastic TinyMCE editor was used to allow users to format comments.
+License: LGPL License 
+Path: license\license_TinyMCE.txt 
+Website: http://www.tinymce.com/

@@ -1,0 +1,119 @@
+<?php
+/* Template Name: Choose Design */
+
+get_header();
+global $ti_option;
+?>
+
+<section id="content" role="main" class=" woocommerce  clearfix animated">
+
+    <?php
+    /**
+     * If Featured Image is uploaded set it as a background
+     * and change page title color to white
+     * */
+    if (has_post_thumbnail()) {
+        $page_image_url = wp_get_attachment_image_src(get_post_thumbnail_id(), 'big-size');
+        $page_bg_image = 'style="background-image:url(' . $page_image_url[0] . ');"';
+        $title_with_bg = 'title-with-bg';
+    } else {
+        $title_with_bg = 'wrapper title-with-sep';
+    }
+    
+    remove_filter ('the_content', 'wpautop');
+
+
+    ?>
+
+    <header class="entry-header page-header" style="border: none;
+    margin-bottom: 0px;
+    padding-bottom: 0px;">
+        <div class="page-title">
+            <div class="wrapper">
+                <h1 class="entry-title" style="color: #03a7e1;
+    font-weight: bold;
+    font-size: 24px;     padding-bottom: 0px;
+    margin-bottom: 8px; padding-left: 20px;"><?php the_title(); ?>...</h1>
+            </div>
+        </div>
+    </header>
+
+    <div class="wrapper">
+
+        <?php
+        if (have_posts()) : while (have_posts()) : the_post();
+                ?>
+
+                <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+
+                    <div class="page-content">
+                         <div class="intro_design" style="background: #bcbbbb;     color: #828080;    padding: 25px 22px;    font-size: 20px;">
+                            <?php 
+                          
+                            the_content(); ?>
+                         </div>
+                         <style></style>
+                        <?php
+                        $category_id = get_post_meta(get_the_ID(), 'category_id', true);
+                        $_cates = get_terms('product_cat', 'orderby=count&hide_empty=0&hierarchical=0&parent=' . $category_id);
+                        foreach ($_cates as $cate) {
+                            ?>
+                            <div class="box_desgin_choose">
+                                    <h2 style="color: #ff660d;   font-size: 18px;   padding-top: 5px;    padding-bottom: 0px;    margin-bottom: 0px;"><?php echo $cate->name; ?></h2>
+
+                                    <?php
+                                    $query_args = array('posts_per_page' => 5, 'orderby' => 'ID',
+	'order'   => 'ASC', 'no_found_rows' => 1, 'post_status' => 'publish', 'post_type' => 'product', 'tax_query' => array(
+                                            array(
+                                                'taxonomy' => 'product_cat',
+                                                'field' => 'id',
+                                                'terms' => array($cate->term_id)
+                                    )));
+                                    $r = new WP_Query($query_args);
+
+                                    if ($r->have_posts()) {
+                                        ?>
+                                        <ul class="products">
+                                            <?php while ($r->have_posts()) : $r->the_post();
+                                                global $product; ?>
+                                                <li style="text-align: center;
+    font-weight: bold;" class="product type-product status-publish has-post-thumbnail product_cat-design shipping-taxable purchasable product-type-simple product-cat-design instock">
+                                                <a href="<?php the_permalink() ?>" title="<?php echo esc_attr(get_the_title() ? get_the_title() : get_the_ID()); ?>">
+                                                        <?php if (has_post_thumbnail()) the_post_thumbnail('shop_thumbnail');
+                                                        else echo '<img src="' . woocommerce_placeholder_img_src() . '" alt="Placeholder" width="' . $woocommerce->get_image_size('shop_thumbnail_image_width') . '" height="' . $woocommerce->get_image_size('shop_thumbnail_image_height') . '" />'; ?>
+                                                <?php if (get_the_title()) the_title();
+                                                else the_ID(); ?>
+                                                    </a>
+                                                </li>
+                                        <?php endwhile; ?>
+                                        </ul>
+                                        <?php
+                                        // Reset the global $the_post as this query will have stomped on it
+                                        wp_reset_query();
+                                         }
+                                        ?>
+                                </div>
+                                <?php
+                           
+                        }
+                        ?>
+
+                    </div>
+                </article>
+
+            <?php endwhile;
+        endif; ?>
+
+        <?php
+        // Enable/Disable comments
+        if ($ti_option['site_page_comments'] == 1) {
+            comments_template();
+        }
+        ?>
+
+
+
+    </div>
+</section><!-- #content -->
+
+<?php get_footer(); ?>

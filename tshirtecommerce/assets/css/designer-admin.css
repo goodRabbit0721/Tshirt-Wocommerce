@@ -1,0 +1,27 @@
+body > .container-fluid {
+  margin-top: 0 !important;
+}
+.dg-tools button {
+  display: none;
+}
+.dg-tools button:first-child {
+  display: inline-block;
+}
+.product-prices button.btn-addcart {
+  display: none;
+}
+div#product-price {
+  border: 0 none;
+}
+#product-attributes {
+  display: none;
+}
+#dg-share .modal-body {
+  display: none;
+}
+.product-prices > * {
+  display: none;
+}
+.product-prices {
+  text-align: center;
+}

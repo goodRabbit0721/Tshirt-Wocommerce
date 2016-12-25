@@ -1,0 +1,51 @@
+body, .dg-box .accordion{
+	font-family: 'Roboto Slab', serif;
+	font-weight:300;
+	font-size:13px;
+}
+.dg-box label {
+  color: #333;
+  font-weight: 300;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Roboto Slab', serif;
+	font-weight:300;
+}
+.menu-left li > a {
+  color: #666;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 10px;
+  text-shadow: none;
+}
+.dg-box .ui-accordion .ui-accordion-header {
+  color: #666;
+  font-size: 13px;
+  font-weight: 400;
+  text-shadow: none;
+}
+#product-attributes .form-group {
+  margin-bottom: 15px;
+}
+#product-attributes .list-number li {
+  margin: 8px 0;
+}
+.popover.right {
+  margin-left: 15px;
+}
+.popover {
+  width: 270px;
+}
+small {
+  font-size: 12px;
+}
+.dg-options-content > .row{
+  line-height: 22px;
+  padding-top: 6px;
+}
+.product-price-info *{
+  font-weight: normal;
+}
+.product-price-list{
+	padding-left: 10px;
+}

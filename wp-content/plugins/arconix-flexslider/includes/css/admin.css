@@ -1,0 +1,10 @@
+#ac-flexslider .rsssummary { display: block; }
+#ac-flexslider .acfs-widget-bottom { border-top: 1px solid #ddd; padding-top: 10px; text-align: center; }
+#ac-flexslider .acfs-widget-bottom ul { list-style: none; }
+#ac-flexslider .acfs-widget-bottom ul li { display: inline; padding-right: 20px; }
+#ac-flexslider .acfs-widget-bottom img { padding-right: 3px; vertical-align: middle; }
+.afs-docs,.afs-help,.afs-dev,.afs-source { display: inline-block; background: transparent center left no-repeat; padding-left: 21px; }
+.afs-docs { background-image: url(images/page-16x16.png); }
+.afs-help { background-image: url(images/help-16x16.png); }
+.afs-dev { background-image: url(images/trello-16x16.png); }
+.afs-source { background-image: url(images/github-16x16.png); }

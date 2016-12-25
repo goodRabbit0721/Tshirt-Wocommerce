@@ -1,0 +1,51 @@
+body{
+	font-family: 'Roboto Slab', serif;
+	font-weight:300;
+}
+#dg-left div.dg-box {
+  background: none;
+  border: 0 none;
+}
+div.dg-box .menu-left {
+  display: block;
+  float: left;
+  width: 100%;
+}
+div.dg-box .menu-left li {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: 0 none;
+}
+div.dg-box .menu-left li a {
+  border: 0 none;
+  color: #666;
+  font-size: 14px;
+  font-weight: 400;
+  text-shadow: none;
+}
+div.dg-box .menu-left li a button {
+  background-color: #f5f5f5;
+  border: 1px solid rgba(59, 62, 71, 0.15);
+  border-radius: 50%;
+  height: 50px;
+  letter-spacing: normal;
+  line-height: normal;
+  margin: 0 4px 0 0;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  text-align: center;
+  width: 50px;
+}
+div.dg-box .menu-left li a button i {
+  display: inline-block;
+  line-height: 44px;
+  margin: 0;
+  padding: 0;
+}
+div.dg-box .menu-left li a button i::before {
+  color: #666;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  top: 0;
+}

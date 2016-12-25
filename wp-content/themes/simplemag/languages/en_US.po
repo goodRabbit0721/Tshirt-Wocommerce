@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleMag 3.0.2\n"
+"POT-Creation-Date: 2014-07-31 19:41+0200\n"
+"PO-Revision-Date: 2014-07-31 19:41+0200\n"
+"Last-Translator: ThemesIndep <admin@themesindep.com>\n"
+"Language-Team: ThemesIndep <admin@themesindep.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: /Applications/MAMP/Server/simplemag/wp-content/themes/"
+"simplemag\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19 404.php:21
+msgid "Ooops! That page can not be found"
+msgstr ""
+
+#: archive.php:37
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:110 composer/latest-posts.php:88 composer/latest-posts.php:125
+#: index.php:64
+msgid "Sorry, no posts were found"
+msgstr ""
+
+#: author.php:99
+msgid "This author has no posts yet"
+msgstr ""
+
+#: comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:21 comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:22 comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: composer/category-posts.php:67 composer/featured-posts.php:70
+#: composer/latest-reviews.php:75 composer/posts-carousel.php:53
+#: composer/posts-slider.php:54 composer/slider-latest.php:56
+#: content-post.php:51 inc/category-slider.php:56 single.php:22
+msgid "By"
+msgstr ""
+
+#: composer/category-posts.php:97
+msgid "View The Category"
+msgstr ""
+
+#: composer/category-posts.php:105
+msgid "This category does not contain any posts yet"
+msgstr ""
+
+#: composer/featured-posts.php:95
+msgid "There are no featured posts yet"
+msgstr ""
+
+#: composer/format-posts.php:104
+msgid "There are no posts with this format yet"
+msgstr ""
+
+#: composer/latest-reviews.php:100
+msgid "There are no reviews yet"
+msgstr ""
+
+#: composer/posts-carousel.php:82
+msgid "Sorry, there are no posts in the carousel"
+msgstr ""
+
+#: composer/posts-slider.php:65 composer/slider-latest.php:68
+#: content-post.php:63 inc/category-slider.php:64 search.php:65
+msgid "Read More"
+msgstr ""
+
+#: composer/posts-slider.php:82 composer/slider-latest.php:84
+msgid "Sorry, there are no posts in the slider"
+msgstr ""
+
+#: composer/slider-latest.php:138
+msgid "There are no latest posts yet"
+msgstr ""
+
+#: footer.php:21 inc/header-banner.php:37 single.php:106 single.php:163
+msgid "Advertisement"
+msgstr ""
+
+#: footer.php:41
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:24
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:25
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:73
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:345
+msgid "Magazine"
+msgstr ""
+
+#: functions.php:347
+msgid "Sidebar for categories and single posts"
+msgstr ""
+
+#: functions.php:357 sitemap.php:61
+msgid "Pages"
+msgstr ""
+
+#: functions.php:359
+msgid "Sidebar for static pages"
+msgstr ""
+
+#: functions.php:369
+msgid "Footer Area One"
+msgstr ""
+
+#: functions.php:380
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions.php:391
+msgid "Footer Area Three"
+msgstr ""
+
+#: header.php:121
+msgid "Define your site main menu"
+msgstr ""
+
+#: inc/author-box.php:13
+msgid "Bio"
+msgstr ""
+
+#: inc/author-box.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/author-box.php:104
+msgid "Latest Posts By"
+msgstr ""
+
+#: inc/author-box.php:106
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/mega-menu.php:78
+msgid "No image"
+msgstr ""
+
+#: inc/pagination.php:42
+msgid "Previous"
+msgstr ""
+
+#: inc/pagination.php:43
+msgid "Next"
+msgstr ""
+
+#: inc/related-posts.php:53
+msgid "You may also like"
+msgstr ""
+
+#: inc/single-rating.php:25
+msgid "Our Rating"
+msgstr ""
+
+#: inc/single-share.php:25
+msgid "Share on"
+msgstr ""
+
+#: inc/single-share.php:30 inc/user-fields.php:26 widgets/ti-about-site.php:42
+msgid "Facebook"
+msgstr ""
+
+#: inc/single-share.php:36 inc/user-fields.php:17 widgets/ti-about-site.php:38
+msgid "Twitter"
+msgstr ""
+
+#: inc/single-share.php:50 inc/user-fields.php:44 widgets/ti-about-site.php:54
+msgid "Pinterest"
+msgstr ""
+
+#: inc/single-share.php:56
+msgid "Google +"
+msgstr ""
+
+#: inc/single-share.php:62 inc/user-fields.php:53 widgets/ti-about-site.php:50
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/single-share.php:68
+msgid "Email"
+msgstr ""
+
+#: inc/slide-dock.php:14
+msgid "More Stories"
+msgstr ""
+
+#: inc/user-fields.php:12
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/user-fields.php:35 widgets/ti-about-site.php:46
+msgid "Google+"
+msgstr ""
+
+#: inc/user-fields.php:62 widgets/ti-about-site.php:66
+msgid "Instagram"
+msgstr ""
+
+#: search.php:14
+msgid "<small>Search Results for:</small><br />"
+msgstr ""
+
+#: search.php:76
+msgid "Sorry, nothing found"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: single.php:120
+msgid "Continue Reading"
+msgstr ""
+
+#: single.php:140
+msgid "Tags"
+msgstr ""
+
+#: single.php:186
+msgid "Previous article"
+msgstr ""
+
+#: single.php:196
+msgid "Next article"
+msgstr ""
+
+#: sitemap.php:47
+msgid "Categories"
+msgstr ""
+
+#: sitemap.php:54 widgets/ti-authors.php:187
+msgid "Authors"
+msgstr ""
+
+#: sitemap.php:68
+msgid "Archives"
+msgstr ""
+
+#: widgets/ti-about-site.php:24
+msgid "TI About The Site"
+msgstr ""
+
+#: widgets/ti-about-site.php:25
+msgid ""
+"Display info about your magazine. Such as logo, text & social profile links"
+msgstr ""
+
+#: widgets/ti-about-site.php:34
+msgid "RSS URL"
+msgstr ""
+
+#: widgets/ti-about-site.php:58
+msgid "Bloglovin"
+msgstr ""
+
+#: widgets/ti-about-site.php:62
+msgid "Tumblr"
+msgstr ""
+
+#: widgets/ti-about-site.php:70
+msgid "Flickr"
+msgstr ""
+
+#: widgets/ti-about-site.php:74
+msgid "YouTube"
+msgstr ""
+
+#: widgets/ti-about-site.php:78
+msgid "Behance"
+msgstr ""
+
+#: widgets/ti-about-site.php:82
+msgid "Dribbble"
+msgstr ""
+
+#: widgets/ti-about-site.php:86
+msgid "Sound Cloud"
+msgstr ""
+
+#: widgets/ti-about-site.php:90
+msgid "Last.fm"
+msgstr ""
+
+#: widgets/ti-about-site.php:94
+msgid "App.net"
+msgstr ""
+
+#: widgets/ti-about-site.php:98
+msgid "Apple"
+msgstr ""
+
+#: widgets/ti-about-site.php:102
+msgid "Windows"
+msgstr ""
+
+#: widgets/ti-about-site.php:106
+msgid "Android"
+msgstr ""
+
+#: widgets/ti-about-site.php:110
+msgid "StumbleUpon"
+msgstr ""
+
+#: widgets/ti-about-site.php:199
+msgid "Title"
+msgstr ""
+
+#: widgets/ti-about-site.php:203
+msgid "Logo URL"
+msgstr ""
+
+#: widgets/ti-about-site.php:207
+msgid "Short text about the site"
+msgstr ""
+
+#: widgets/ti-about-site.php:212
+msgid "Center the social icons"
+msgstr ""
+
+#: widgets/ti-about-site.php:216
+msgid "Open social links in new window"
+msgstr ""
+
+#: widgets/ti-authors.php:21
+msgid "TI Site Authors"
+msgstr ""
+
+#: widgets/ti-authors.php:22
+msgid "Display the site authors, editors and contributors"
+msgstr ""
+
+#: widgets/ti-authors.php:178 widgets/ti-code-banner.php:85
+#: widgets/ti-featured-posts.php:127 widgets/ti-image-banner.php:90
+#: widgets/ti-latest-category-posts.php:125 widgets/ti-latest-comments.php:113
+#: widgets/ti-latest-posts.php:126 widgets/ti-latest-reviews.php:112
+#: widgets/ti-most-commented.php:110 widgets/ti-video.php:87
+msgid "Title:"
+msgstr ""
+
+#: widgets/ti-authors.php:182
+msgid "Show:"
+msgstr ""
+
+#: widgets/ti-authors.php:184
+msgid "Administrators"
+msgstr ""
+
+#: widgets/ti-authors.php:190
+msgid "Contributors"
+msgstr ""
+
+#: widgets/ti-authors.php:193
+msgid "Editors"
+msgstr ""
+
+#: widgets/ti-authors.php:197
+msgid "Display as Slider"
+msgstr ""
+
+#: widgets/ti-authors.php:200
+msgid "Display as List"
+msgstr ""
+
+#: widgets/ti-code-banner.php:21
+msgid "TI Code Banner"
+msgstr ""
+
+#: widgets/ti-code-banner.php:22
+msgid "Paste your banner JS or Google Adsense code"
+msgstr ""
+
+#: widgets/ti-code-banner.php:89
+msgid "JS or Google AdSense Code"
+msgstr ""
+
+#: widgets/ti-code-banner.php:94 widgets/ti-image-banner.php:103
+msgid "Do not display the title"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:21
+msgid "TI Featured Posts"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:22
+msgid "Show featured posts, defined in post edit page"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:131 widgets/ti-latest-category-posts.php:129
+#: widgets/ti-latest-posts.php:130 widgets/ti-latest-reviews.php:116
+#: widgets/ti-most-commented.php:114
+msgid "Maximum posts to show:"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:136 widgets/ti-latest-category-posts.php:147
+#: widgets/ti-latest-posts.php:135
+msgid "Display posts as Slider"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:139 widgets/ti-latest-category-posts.php:150
+#: widgets/ti-latest-posts.php:138
+msgid "Display posts as List"
+msgstr ""
+
+#: widgets/ti-featured-posts.php:142 widgets/ti-latest-category-posts.php:153
+#: widgets/ti-latest-posts.php:141
+msgid "Display posts as Classic List"
+msgstr ""
+
+#: widgets/ti-image-banner.php:21
+msgid "TI Image Banner"
+msgstr ""
+
+#: widgets/ti-image-banner.php:22
+msgid "Add image banner 300x300, 300x250 or 250x250"
+msgstr ""
+
+#: widgets/ti-image-banner.php:94
+msgid "Image Banner URL:"
+msgstr ""
+
+#: widgets/ti-image-banner.php:98
+msgid "Image Banner Link:"
+msgstr ""
+
+#: widgets/ti-latest-category-posts.php:21
+msgid "TI Latest Posts By Category"
+msgstr ""
+
+#: widgets/ti-latest-category-posts.php:22
+msgid "Show latest posts from selected category"
+msgstr ""
+
+#: widgets/ti-latest-category-posts.php:133
+msgid "Select Category:"
+msgstr ""
+
+#: widgets/ti-latest-comments.php:21
+msgid "TI Latest Comments"
+msgstr ""
+
+#: widgets/ti-latest-comments.php:22
+msgid "Display the most latest comments "
+msgstr ""
+
+#: widgets/ti-latest-comments.php:117
+msgid "Comments to show:"
+msgstr ""
+
+#: widgets/ti-latest-posts.php:21
+msgid "TI Latest Posts"
+msgstr ""
+
+#: widgets/ti-latest-posts.php:22
+msgid "Show latest posts"
+msgstr ""
+
+#: widgets/ti-latest-reviews.php:21
+msgid "TI Latest Reviews"
+msgstr ""
+
+#: widgets/ti-latest-reviews.php:22
+msgid "Display the latest posts with reviews"
+msgstr ""
+
+#: widgets/ti-most-commented.php:21
+msgid "TI Most Commented Posts"
+msgstr ""
+
+#: widgets/ti-most-commented.php:22
+msgid "Show a list of the most commented posts with comments count"
+msgstr ""
+
+#: widgets/ti-video.php:21
+msgid "TI Video"
+msgstr ""
+
+#: widgets/ti-video.php:22
+msgid "Add video from Vimeo, YouTube or other video site."
+msgstr ""
+
+#: widgets/ti-video.php:91
+msgid "Video page URL:"
+msgstr ""
+
+#: widgets/ti-video.php:96
+msgid "Video Title:"
+msgstr ""

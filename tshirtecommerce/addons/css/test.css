@@ -1,0 +1,89 @@
+.mask-items-view {
+  display: none;
+  float: left;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 500px;
+}
+.mask-items-area {
+  float: left;
+  position: relative;
+  z-index: auto !important;
+}
+.mask-item {
+  border: 1px solid #ccc;
+  cursor: move !important;
+  float: left;
+  margin: 1px;
+  opacity: 1 !important;
+  position: absolute;
+  z-index: 1000 !important;
+}
+.design-area .drag-item-selected div{
+	visibility: hidden;
+}
+.design-area .drag-item {
+    border-color: transparent !important;
+}
+.design-area .content-inner {
+  overflow: hidden;
+}
+
+.mask-items-area .mask-item div {
+  background-color: #ffffff;
+  border: 1px solid #777777;
+  border-radius: 2px;
+  box-shadow: 0 0 1px 1px #999999;
+  display: block;
+  height: 18px;
+  position: absolute;
+  width: 18px;
+}
+.item-mask-remove-on {
+  bottom: -18px;
+  cursor: pointer;
+  left: -18px;
+}
+.item-mask-remove-on.fa::before {
+  color: #000;
+  font-size: 13px;
+  line-height: 100%;
+}
+.mask-items-area .mask-item div.item-rotate-on::before {
+  color: #333;
+  font-size: 9px;
+  margin-top: -6px;
+}
+.mask-items-area .mask-item span.item-info {
+  background-color: #fff;
+  border: 1px solid #989898;
+  border-radius: 2px;
+  box-shadow: 0 0 3px 1px #989898;
+  color: #000;
+  display: inline-block;
+  font-size: 9px;
+  left: auto;
+  min-width: 65px;
+  padding: 2px 4px;
+  position: relative;
+  text-align: center;
+  top: -41px;
+}
+.mask-items-area .mask-item div.item-mask-move {
+  color: #333;
+  left: -18px;
+  top: -20px;
+}
+.mask-items-area .mask-item div.item-mask-move::before {
+  color: #333;
+  font-size: 12px;
+}
+#options-add_item_qrcode {
+  min-height: 240px;
+}
+#qrcode-img {
+  cursor: pointer;
+  padding-top: 10px;
+}

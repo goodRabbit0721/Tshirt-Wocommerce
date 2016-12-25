@@ -1,0 +1,6 @@
+/* Redux Framework Custom CSS */
+.redux-section-field{margin-top:20px;}
+.redux-main .form-table-section tr{border: none !important;}
+.redux-main .form-table-section .redux_field_th{padding:0 10px 0 0 !important;}
+#ti_option-social_profile_url label strong{font-weight:normal !important;}
+#ti_option-social_profile_url .regular-text{margin-bottom:10px;}

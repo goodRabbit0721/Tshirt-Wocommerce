@@ -1,0 +1,967 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Smooth Slider"
+msgstr ""
+
+#. Short description.
+msgid "Responsive WordPress Slider for Featured Content, Videos and Media Images"
+msgstr ""
+
+#. Screenshot description.
+msgid "One Demo of Smooth Slider"
+msgstr ""
+
+#. Screenshot description.
+msgid "Another demo with image in centre"
+msgstr ""
+
+#. Screenshot description.
+msgid "Basic Settings Panel"
+msgstr ""
+
+#. Screenshot description.
+msgid "Advance Setting options under Miscellaneous section"
+msgstr ""
+
+#. Screenshot description.
+msgid "Control Live Preview Panel, Get Shortcode and Template Tag"
+msgstr ""
+
+#. Screenshot description.
+msgid "Export/Import Setting Values, Get Quick Shortcode and Template Tag"
+msgstr ""
+
+#. Screenshot description.
+msgid "Image auto fetch preferences, customize image width/height and other parameters"
+msgstr ""
+
+#. Screenshot description.
+msgid "Drag and Drop reorder or added slides"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Sliders"
+msgstr ""
+
+#. Found in description header.
+msgid "<a href=\"http://slidervilla.com/sliders-list-view/\" rel=\"friend\" title=\"Premium WordPress Sliders\">15+ Premium WordPress Sliders</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive Design and the slider works perfectly fine on mobile devices, tablets etc."
+msgstr ""
+
+#. Found in description list item.
+msgid "Six transition effects ( Fade transition supported )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Custom Slider, Category Slider and Recent Posts Slider supported ( Template tags, Shortcode and Widget available )"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slider Preview in admin panel "
+msgstr ""
+
+#. Found in description list item.
+msgid "Search Engine Optimized Slideshow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Full control over the looks thru the Settings Panel"
+msgstr ""
+
+#. Found in description list item.
+msgid "Permission setting option to restrict the users from adding posts to Smooth Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "The posts/pages/media library images/custom post types added to the slider can be re-ordered"
+msgstr ""
+
+#. Found in description list item.
+msgid "No Need Of Knowledge of PHP, HTML or CSS. But for those having knowledge of CSS, you can create your own stylesheet."
+msgstr ""
+
+#. Found in description list item.
+msgid "Slides can be removed from the slider in single click thru 'Sliders' admin panel"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create Unlimited Settings Panels"
+msgstr ""
+
+#. Found in description list item.
+msgid "Created Unlimited Custom Sliders"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple Designs to Choose From"
+msgstr ""
+
+#. Found in description list item.
+msgid "Export/Import Settings"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lightbox Effect"
+msgstr ""
+
+#. Found in description list item.
+msgid "Logo Slider with Grayscale Effect (Placid)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple Image Size Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google Web Fonts option on Settings Panel"
+msgstr ""
+
+#. Found in description list item.
+msgid "Very Prompt Support and Lifetime Upgrades"
+msgstr ""
+
+#. Found in description list item.
+msgid "Placid Slider - <a href=\"http://slidervilla.com/placid/\" rel=\"friend\" title=\"Best Logo and Client Brand Slider\">Best Logo and Client Brand Slider</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Pointelle Slider - <a href=\"http://slidervilla.com/pointelle/\" rel=\"friend\" title=\"Best WordPress Slider Design for Homepage\">Best WordPress Slider Design for Homepage</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Glam Slider - <a href=\"http://slidervilla.com/glam/\" rel=\"friend\" title=\"Full Page Slider with Partial Visible Slides\">Full Page Slider with Partial Visible Slides</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Featured Slider - <a href=\"http://slidervilla.com/featured-slider/\" rel=\"friend\" title=\"Awesome WordPress Slider to Show Featured Content\">Awesome WordPress Slider to Show Featured Content</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Listic Slider - <a href=\"http://slidervilla.com/listic/\" rel=\"friend\" title=\"Best List View Slider for WordPress\">Best List View Slider for WordPress</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Roster Slider - <a href=\"http://slidervilla.com/roster/\" rel=\"friend\" title=\"Best Horizontal Carousal for WordPress\">Best Horizontal Carousal for WordPress</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Pinwheel Slider - <a href=\"http://slidervilla.com/pinwheel/\" rel=\"friend\" title=\"Ultimate rotator with responsive design\">Ultimate rotator with responsive design</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Akkord Slider - <a href=\"http://slidervilla.com/akkord/\" rel=\"friend\" title=\"Premium Accordion Slider for WordPress\">Premium Accordion Slider for WordPress</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Taxonomy Add-on"
+msgstr ""
+
+#. Found in description list item.
+msgid "Post Attachments Add-on"
+msgstr ""
+
+#. Found in description list item.
+msgid "RSS Feed Add-on"
+msgstr ""
+
+#. Found in description list item.
+msgid "NextGEN Gallery Add-on"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In less than 50 seconds, embed a recent posts, category specific or featured posts slider using Smooth Slider WordPress plugin. It creates a dynamic slideshow/s of featured Posts, Pages, Media Images and Custom Post Types on a WordPress site. With live preview on admin panel, one can customize the slider before implementation. At SliderVilla - <a href=\"http://slidervilla.com/\" rel=\"friend\" title=\"Best WordPress Slider Store\">Best WordPress Slider Store</a> , we develop only sliders of different needs and we know the requirements very well. Smooth Slider is a basic slider WordPress plugin but is capable of adding a nice carousel in no time. With shortcode, widgets and template tag, one can embed Smooth SLider anywhere in the site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Checkout Our Premium Responsive Sliders such as,"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"<a href=\"http://slidervilla.com/smooth-slider/\" rel=\"friend\">Plugin Home Page</a> | \n"
+"<a href=\"http://guides.slidervilla.com/smooth-slider/\">Plugin Documentation</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "**Smooth Slider is now <a href=\"http://slidervilla.com/add-ons/\" rel=\"friend\">Add-ons</a> compatible. **"
+msgstr ""
+
+#. Found in installation header.
+msgid "1. The super easy way"
+msgstr ""
+
+#. Found in installation header.
+msgid "2. The easy way"
+msgstr ""
+
+#. Found in installation header.
+msgid "3. The old way (FTP)"
+msgstr ""
+
+#. Found in installation header.
+msgid "Usage"
+msgstr ""
+
+#. Found in installation list item.
+msgid "In your Admin, go to menu Plugins &gt; Add"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Search for Smooth Slider"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click to install"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "A new menu <code>Smooth Slider</code> will appear in your Admin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin (.zip file) on the right column of this page"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select the tab \"Upload\""
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the .zip file you just downloaded"
+msgstr ""
+
+#. Found in installation list item.
+msgid "A new menu will appear in your Admin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip the downloaded .zip file"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>smooth-slider</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>There is ready to use widget named 'Smooth Slider Widget - Simple', that you can directly use in your widgetized area of the theme. In case you use multiple sliders  feature you can as well select the slider name from the dropdown on the widget.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>You can use the Smooth Slider shortcode [smoothslider] or [smoothslider id='1'] on your edit post/page panel to insert the slider anywhere on the post or page. In case you use multiple sliders feature, just replace the 'id' with your required slider's 'ID' that you would find on Sliders admin panel(settings).</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>The content in the slider can be picked up from either the post content or the post excerpt or a custom field slider_content. You can add the custom field on the Edit Post panel for each of the posts.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>It is very easy to select which image you want as the thumbnail for the slides. You can choose to get the image from custom field, or 'Post thumbnail' or from the post content.</p>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "<p>Almost all the fields that appear in the Smooth Slider are customizable, you can change the looks of your Slider and make it suitable for your theme. The defaults set are according to the Default Wordpress theme. Also, you can change the number of posts appearing in the slider and the pause or interval between the two consecutive posts on the slider. For making these changes, there would be  a settings page for Smooth Slider in the wp-admin screen of your blog, once you enable the plugin.</p>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "There's 3 ways to install this plugin:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If you want the slideshow with all the added featured posts on your home page, open Index.php file from Dashboard by clicking on Tab Appearance / Editor and paste the following piece of code at the suitable place."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"if ( function_exists( 'get_smooth_slider' ) ) {\n"
+"   get_smooth_slider(); }"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "If you want to put the slider before the list of articles on your Wordpress blog homepage, put the above piece of code before the Wordpress Loop (the code is a php code, so ensure that it is enclosed within the php tags). Wordpress loop code is shown below:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "if(have_posts()) : while(have_posts()) : the_post();"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "There is ready to use widget named 'Smooth Slider Widget - Simple', that you can directly use in your widgetized area of the theme. In case you use multiple sliders  feature you can as well select the slider name from the dropdown on the widget."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "You can use the Smooth Slider shortcode [smoothslider] or [smoothslider id='1'] on your edit post/page panel to insert the slider anywhere on the post or page. In case you use multiple sliders feature, just replace the 'id' with your required slider's 'ID' that you would find on Sliders admin panel(settings)."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The content in the slider can be picked up from either the post content or the post excerpt or a custom field slider_content. You can add the custom field on the Edit Post panel for each of the posts."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "It is very easy to select which image you want as the thumbnail for the slides. You can choose to get the image from custom field, or 'Post thumbnail' or from the post content."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Almost all the fields that appear in the Smooth Slider are customizable, you can change the looks of your Slider and make it suitable for your theme. The defaults set are according to the Default Wordpress theme. Also, you can change the number of posts appearing in the slider and the pause or interval between the two consecutive posts on the slider. For making these changes, there would be  a settings page for Smooth Slider in the wp-admin screen of your blog, once you enable the plugin."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To get the category specific posts in reverse chronological order, use the following piece of code (template tag) at the necessary place in your theme's template file."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid ""
+"if ( function_exists( 'get_smooth_slider_category' ) ) {\n"
+"   get_smooth_slider_category('apple'); }"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "where 'apple' is the slug (url friendly version of the category name) of the category from which you want to extract the posts to be shown in the slider. Replace it with your own category slug and you are done."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "For more documentation go to <a href=\"http://guides.slidervilla.com/smooth-slider/\">Smooth Slider Documentation</a>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Find More Advanced Slider Styles at <a href=\"http://www.slidervilla.com/\">SliderVilla</a></strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: WPML compatability"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add slide (post/page/CPT) to slider toggle button instead of checkbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New – Added touch swipe feature for tocu input on mobile devices "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New – Slide Expiry Date can be added for each slide in Custom Slider thru Smooth Slider Metabox on Edit Post/Page/Slide"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: UTF-8 characters appeared as question marks for Slider title and Category "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Notice for WP_Widget constructor call"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: SQL query fixes and debug notices"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Conflict with Pointelle Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Conflict with Logo Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Small issue with Reposiveness on resizing Smooth Slider with border specified"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: In case of multisite WordPress installation there was an issue while saving setting set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: jquery.js was loaded in footer, should be loaded before the slider js (head section)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Slider was causing page to hide initially and appear on document ready. Resolved this issue. Now slider is workig perfectly for responsive heights."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: RSS Feed Add-on compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Slider height not properly set initially for center aligned (large) images slider. Fixed the issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Smooth Slider coming before content in case of shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Words breaking improperly in the slider content area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: JS conflict with ShareThis plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Image uploader for Sliders on 'Sliders' settings panel. No need to add individual media image to Smooth slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add any shortcode like video shortcode or button shortcode to slide which will be overlayed on it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Rename Slider field on Smooth Slider =&gt; Sliders panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Smooth Slider post meta box now has two tabs named basic and advanced with respective fields for the purpose of easy understanding and saving the space."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: On settings panel of Smooth slider now it is possible to expand and collapse tabs which greatly reduces scrolling efforts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Preview Slider params simplified on Settings panel."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Color picker changed from Farbtastic to \"wp-color-picker\"."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Worked on responsiveness of slider. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Settings panel cleanup and restructuring."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Solved the debug errors on Sliders panel."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Removed promotional link text 'smooth slider' from the slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Edit Media page having double post meta boxes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Add to Slider not working for media images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: CSS changes for video slides and WordPress Video Shortcode"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: On Delete and Reinstall, options are not saved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Slider appears only if \"Display slider\" option is checked in Post Meta box "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Create Multiple Sliders from Sliders Panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Embed videos or other items using \"Embed Shortcode\" new field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Show/Hide Image Thumbnail if video inserted in slide"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Made 100% Responsive Slider with Fluid Design"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Export/Import Settings Set (useful when implementing customized Smooth SLider from dev to live site)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Reset Setting values to Global Derfault"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Preview tab to select 'Recent Post Slider', Category Slider, Custom Slider to live preview on admin panel"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Shortcode and Template Tags to embed the preview slider are shown on settings panel sidebar"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Clean and minimal admin panel with almost no advertisement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Easy embed shortcode pop-up on setting changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Change the color of \"Continue Reading\" text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added validations on setting fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Post Meta Box fields not updating"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Disable Suto Play was not working properly"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Admin Panel CSS issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Debug notifications"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Smooth Slider now Supports Responsive Design Layout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Shortcode for Category Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Template tag and Shortcode for Recent Posts Smooth Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Changes to Support Fade and a couple more transitions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Changes to Settings Panel design"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Compatible with SliderVilla add-ons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed the bug that Smooth Slider slides got jumbled up and Slider looked empty when the Chrome or Safari browser was zoomed in."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Now the slider_style Custom Field or Post Meta will not appear for each Post or Page saved. This field was automatically created and displayed under the Custom Fields metabox on Edit Post/Page panel inprevious version of Smooth Slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: An extra div tag at the end of the slider html was causing the slider break on Safari in a particular case. Thanks to Michael Preisner for pointing out the issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: On new pages, posts, the default slider sltysheet should be the one selected thru Smooth Slider settings and not the actual 'default' stylesheet."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: noscript tags should have the text enclosed in 'p' tags to make Smooth Slider validate on XHTML strict. Thanks to Martin Wilcke for pointing this out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: The shortcode stripping was not working when there was an immediate anchor tag within the shorcodes. Rectified this bug. Thanks to Oscar of Innovacionweb for pointing this issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Using the WP Minify 1.1.6 plugin with Smooth Slider 2.3.4.1 caused a 400 Bad Request error and the resulting html page ended up with no composite CSS file since Minify failed. This was in a special case when the slider is embedded on single page or a post and you updated from the older version of Smooth Slider (2.3.2 or less) to new version. Added a fix for this. Thanks to Doug Foster of theideamechanics.com for pointing this out. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Option to enable the 'Flash of Unstyled content' while page load, which is disable by default. By default the slider will load once complete DOm elements are loaded (html page is ready to be served). Due to this default setting, some users feel that slider is loading slow. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Slider was not working on upgrade from older versions to version 2.3.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Randomize the slides in Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation ready"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multiple sliders can have different titles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "No script text option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin compltibility will be now from WordPress 2.9 i.e. you should upgrade to Version 2.3 only if you hav WordPress 2.9 and above."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: For those using Smooth Slider previous versions, some were facing issue with the loading of stylesheets and script specific to slider. Fixed it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: For some servers content was not pulled from the posts. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Smooth Slider Widget "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Smooth Slider Shortcode "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Slides can now be re-ordered thru the 'Slider Admin Panel'"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Images existing and new images added to WordPress Media Gallery can be added to Smooth Slider along with posts and pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Now images in the slider can be extracted in very intelligent manner. Added support for 'Post Thumbnails (WP 2.9+)'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Videos can be embedded in the slider. Ad can be added to the slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Some slides can be linked to a webpage and others can be without a link as well. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Multiple settings to the sliders on different pages thru CSS files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Scheduled Posts issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Image Caption Issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Retain HTML tags issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Permissions issue (Who can add post/page and slides to the slider and who cannot)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Multiple Sliders can now be created from the settings page. Post/Pages can be selectively put in the slider of your choice. Also, you could decide  which post/page should display which slider (from the Edit Post/Page), though the page/single post template file contains regular Smooth Slider tag only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added an option to limit the content on the slider by 'words'. Previously it was only with number of characters due to which sometimes for some posts the last word on the slider was shown broken. Now you can use any of the two, either limit content by number of characters or number of words"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fixed the issue with get_smooth_slider_cat tag. There was a bug when this tag ws used for home page. Now it is working as per the specifications."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - For using the custom images for navigation, there was an issue with 'getimagesize' php function for some servers. Removed this fuction and directly put options to specify the custom images height and width."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - When the navigation numbers are used, there was some clicking issue, like the numbers needed to be douoble clicked in order to go to that slide number. This issue was observed with some installations of Smooth Slider (like on demo page). Hopefully this would get fixed with this release."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Changed the name of the database table from slider to smooth_slider to avoid any database conflicts and be more specific"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added an option to change the transition speed between two slides. Now you can control the speed with which one slide slides off and another slides in."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added an option to enable the autostepping or autosliding or disable it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - A blank slide appeared on the slider if the post which is in slider is deleted from wp-admin. Fixed the issue, now if the post which is also in slider is deleted, then it will also be removed from the slider, fixing the blank slide issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - The scheduled or draft post placed into the slider will not appear on the actual slider. It will appear only in case when the post is published."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - WPMU issue with get_smooth_slider_wpmu_all that the post permalinks direct to a wrong url, that represents the current blog only, though the posts are pulled from other blogs. This issue is fixed in this version of Smooth Slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Added an option whether to crop images or not. This was essential after version 2.1 because, some of us use the images from other location than the wordpress installation. In that case timthumb does not operate"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Now the images will not be sqashed to fit the size, rather they would be cropped properly. Used timthumb.Caution: Please use the images stored on the same domain on the slider."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - A new custom field slide_redirect_url can now be specified to redirect the slide to anothr URL than the permalink"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Admin menu dropdown were getting stuck only on Smooth Slider settings page, fixed that issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Now you can add pages to Smooth Slider along with posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Images Original Size Option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Pick image from content or the custom field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - New custom field implementation, to allow not to display images on selective posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - A new template tag to display Category specific posts on Smooth Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - A new template tag for WPMU, to get slider posts from all over the WPMU site"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Option to change “Read More” text and also put it in your language"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Permission setting option to restrict the users from adding posts to Smooth Slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Remove posts and pages from Smooth Slider selectively from the settings page itself"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Option to retain specific html tags in the slider posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Option to specify custom text or html in place of navigation numbers or buttons"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fixed issue of Smooth Slider settings page with Internet Explorer"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Optimized Smooth Slider code internally"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Smooth Slider complete uninstall on plugin Delete"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Slider Preview in Smooth Slider setting page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Facility to set transparent background to the slider"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Facility to Convert it to pure Image Slider "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Remove all the posts from Smooth Slider in one click"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Custom Images in place of navigation numbers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - CSS id names and class name fixed, to avoid probable conflicts with theme styles and other plugin styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Active Slide in the slideshow will now be highlighted with bolder and bigger navigation number"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Added No Script tag browsers not supporting JavaScript for showing the slideshow"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed - Issues with WordPress MU Smooth Slider Options update from setting page"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.8.2 (11/25/2015)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.8.1 (10/23/2015)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.8 (10/13/2015)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.7.1 (08/21/2015)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.7 (07/18/2015)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6.5 (09/19/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6.4 (09/10/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6.3 (08/13/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6.2 (08/12/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6.1 (07/30/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.6 (07/29/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.5.1 (06/04/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.5 (05/30/2014)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.4 (09/10/2012)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3.5 (06/13/2011)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3.3 (04/24/2011)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3.3 (04/16/2011)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3.2 (10/13/2010)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"Minor fix to release of version 2.3\n"
+"1. Fix: Pages added to Smooth Slider were not displayed. Smooth Slider was turning empty. Fixed this issue\n"
+"2. Along with posts, pages and media images, Smooth Slider now supports Custom Post Types"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3.1 (10/13/2010)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Minor upgrade to fix small issues with 2.3"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.3 (10/12/2010)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.2 (12/24/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.1.2 (11/26/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.1.1 (11/19/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.1 (11/18/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 2.0 (10/08/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 1.2 (09/22/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Version 1.1 (09/14/2009)"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Visit the plugin page to see the changelog and release notes."
+msgstr ""
+
+#. Found in faq list item.
+msgid "In case you have upgraded from previous versions (&lt;= 2.3.2) using WordPress automatic upgradation, and the plugin is not working, please deactivate and reactivate the plugin. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "Also, in case you are still getting list of the entries, please go to the Smooth Slider Settings page and just 'Save' the settings. Check if the settings Miscellaneous =&gt; Smooth Slider Styles to use on other than Post/Pages is equal to default. Then save the settings."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Check the other FAQs on Smooth <a href=\"http://guides.slidervilla.com/smooth-slider/\">Slider Documetation on SliderVilla</a>."
+msgstr ""

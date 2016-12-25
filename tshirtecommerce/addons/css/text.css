@@ -1,0 +1,17 @@
+.clear-both{clear:both}
+#options-add_item_text .row.toolbar-action-rotate{float:left;text-align:left;width:42%}
+#options-add_item_text .row.toolbar-action-outline{float:right;text-align:left;width:58%}
+.row.toolbar-action-arc{clear:both}
+.dg-slider.ui-slider{background:#f4f4f4 none repeat scroll 0 0;border:1px solid #cacaca;border-radius:2px;cursor:pointer;height:7px}
+.dg-slider.ui-slider .ui-slider-range{background:#bebebe;border:0 none;border-radius:2px}
+.dg-slider.ui-slider .ui-slider-handle{background:#fff none repeat scroll 0 0;border:1px solid #cacaca;border-radius:50%;cursor:pointer;height:22px;outline:medium none;top:-9px;width:22px}
+.my-font-list{display:inline-block;max-height:90px;position:relative}
+#dg-popover .dropdown.dropdown-nostyle{background:none;border:0 none;border-radius:0;box-shadow:none;float:right;height:auto;padding:0;text-align:left}
+#product-details.ps-container{max-height:230px;overflow:hidden}
+#dg-popover > .popover-content{position:relative;min-height:100px}
+.text-addons{position:relative}
+#screen_colors_images img{max-height:200px}
+#screen_colors_list{float:left;max-height:200px;overflow:auto}
+#txt-team-fontfamly{height:22px;max-width:120px;overflow:hidden}
+.mask-items-area .mask-item div.ui-resizable-e{background-color:transparent;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIxJREFUeNqMUDEOgCAMrA58CFZX3uDIU/iBX3D0DawkTCS8xhBYao84aOLgJZdy10sLTMxMgDHGSVmFizAKj5zzPpoIaa037z2nlLjWOio0/DFEDg5Ga42fgL6DbsYKay0ppegJaPjjCpI8seIL8NHHpFhKoS/cfkToCCFQ7/0VgIaP/q/XTX/+6RJgAEc6j4dkIiynAAAAAElFTkSuQmCC);background-position:center center;background-repeat:no-repeat;border:0 none;box-shadow:none;height:100%;right:-5px;top:0;width:9px}
+.mask-items-area .mask-item div.ui-resizable-s{background-color:transparent;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAIxJREFUeNqMUDEOgCAMrA58CFZX3uDIU/iBX3D0DawkTCS8xhBYao84aOLgJZdy10sLTMxMgDHGSVmFizAKj5zzPpoIaa037z2nlLjWOio0/DFEDg5Ga42fgL6DbsYKay0ppegJaPjjCpI8seIL8NHHpFhKoS/cfkToCCFQ7/0VgIaP/q/XTX/+6RJgAEc6j4dkIiynAAAAAElFTkSuQmCC);background-position:center center;background-repeat:no-repeat;border:0 none;bottom:-5px;box-shadow:none;height:9px;width:100%}

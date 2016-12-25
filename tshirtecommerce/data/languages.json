@@ -1,0 +1,84 @@
+[{
+	"title": "English",
+	"code": "en",
+	"file": "language_en.ini",
+	"default": 1
+},
+{
+	"title": "Viet Nam",
+	"code": "vn",
+	"file": "language_vn.ini",
+	"default": 0
+},
+{
+	"title": "French",
+	"code": "fr",
+	"file": "language_fr.ini",
+	"default": 0
+},
+{
+	"title": "China",
+	"code": "ch",
+	"file": "language_ch.ini",
+	"default": 0
+},
+{
+	"title": "Portugal",
+	"code": "po",
+	"file": "language_po.ini",
+	"default": 0
+},
+{
+	"title": "Germany",
+	"code": "ge",
+	"file": "language_ge.ini",
+	"default": 0
+},
+{
+	"title": "Netherlands",
+	"code": "ne",
+	"file": "language_ne.ini",
+	"default": 0
+},
+{
+	"title": "Hungary",
+	"code": "hu",
+	"file": "language_hu.ini",
+	"default": 0
+},
+{
+	"title": "Russia",
+	"code": "ru",
+	"file": "language_ru.ini",
+	"default": 0
+},
+{
+	"title": "Czech Republic",
+	"code": "cz",
+	"file": "language_cz.ini",
+	"default": 0
+},
+{
+	"title": "Slovenia",
+	"code": "sl",
+	"file": "language_sl.ini",
+	"default": 0
+},
+{
+	"title": "Spain",
+	"code": "sp",
+	"file": "language_sp.ini",
+	"default": 0
+},
+{
+	"title": "Turkey",
+	"code": "tu",
+	"file": "language_tu.ini",
+	"default": 0
+},
+{
+	"title": "Sweden",
+	"code": "sw",
+	"file": "language_sw.ini",
+	"default": 0
+}]

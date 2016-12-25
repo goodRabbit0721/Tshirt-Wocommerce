@@ -1,0 +1,96 @@
+.designer-attributes {
+  border-bottom: 1px dashed #ddd;
+  border-top: 1px dashed #ddd;
+  clear: both;
+  display: block;
+  float: left;
+  margin: 16px 0;
+  padding: 10px 0;
+  width: 100%;
+}
+.designer-attributes .list-colors {
+    float: left;
+    width: 100%;
+}
+.designer-attributes .list-colors > a {
+    float: left;
+    height: 24px;
+    margin: 8px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    outline: 1px solid #ccc;
+}
+.designer-attributes .list-colors > a:first-child {
+  margin-left: 3px;
+}
+.designer-attributes .list-colors > a.active{
+	border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    outline: none;
+}
+.designer-attributes .list-colors > a:hover{
+	outline: 3px solid #7BCD40;
+}
+.designer-attributes .list-colors > a.active:hover{
+	outline: 0;
+}
+.designer-attributes .list-colors > a span {
+    float: left;
+    height: 24px;
+}
+.product-attributes {
+  clear: both;
+  display: block;
+  float: left;
+  padding-top: 15px;
+}
+.form-group.product-fields {
+  clear: both;
+  display: block;
+  float: left;
+  padding-bottom: 15px;
+}
+.p-color-sizes.list-number {
+  float: left;
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+.p-color-sizes.list-number > li {
+  float: left;
+  margin: 0 6px;
+  text-align: center;
+}
+.p-color-sizes.list-number > li:first-child {
+  margin-left: 0;
+}
+.p-color-sizes.list-number > li label {
+  clear: both;
+  display: block;
+  font-size: 12px;
+}
+.p-color-sizes.list-number > li > input {
+  clear: both;
+  display: block;
+  float: left;
+  padding: 4px;
+  text-align: center;
+  width: 40px;
+}
+.dg-poduct-fields {
+  clear: both;
+  display: block;
+  width: 100%;
+}
+.dg-poduct-fields .checkbox-inline, .dg-poduct-fields .radio-inline {
+  float: left;
+  padding-right: 15px;
+}
+.cart .woocommerce_msrp{
+	clear: both;
+    display: block;
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+}

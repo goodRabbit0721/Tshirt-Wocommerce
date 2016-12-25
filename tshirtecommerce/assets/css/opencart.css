@@ -1,0 +1,12 @@
+#designer-app .modal-header button.close{background-color:#f65e13;border:1px solid #2d5c88;border-radius:0 0 0 4px;color:#fff;height:30px;line-height:8px;margin:0;opacity:1;padding:4px;width:30px}
+#products-admin .design-tab-content{display:table;width:100%}
+#products-admin .tab-content{background-color:#FFF;padding-top:20px;max-height:500px;overflow:auto;width:100%}
+#products-admin ul.nav-tabs{padding-left:15px}
+#designer-products .modal-content{background-color:#FCFCFC}
+#designer-products .modal-header{border:0 none;display:block;float:right;margin:0;padding:0;position:absolute;right:0;top:0;z-index:100}
+#products-admin .nav.nav-tabs{margin:0}
+#designer-products .modal-body{padding:15px 0 0;z-index:1}
+#designer-products .modal-header .close-list-design{margin:5px 5px 5px 0;width:30px;height:30px}
+#products-admin .design-tab-content > div.dataTables_paginate{border-top:1px solid #ccc;float:right;text-align:right;width:100%}
+#products-admin .design-tab-content > div.list-products > div{float:none;display:inline-block}
+.img-thumbnail.add-link{font-size:12px;overflow:hidden}

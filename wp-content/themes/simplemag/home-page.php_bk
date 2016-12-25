@@ -1,0 +1,132 @@
+<?php
+ /* Template Name: Home */ 
+
+get_header();
+global $ti_option; 
+?>
+	
+	<section id="content" role="main" class="clearfix animated">
+
+        <?php
+        /**
+         * If Featured Image is uploaded set it as a background
+         * and change page title color to white
+        **/
+        if ( has_post_thumbnail() ) {
+            $page_image_url = wp_get_attachment_image_src( get_post_thumbnail_id(), 'big-size' );
+            $page_bg_image = 'style="background-image:url(' . $page_image_url[0] . ');"';
+            $title_with_bg = 'title-with-bg';
+        } else {
+            $title_with_bg = 'wrapper title-with-sep';
+        } ?>
+  
+			<div class="wrapper">
+					<div class="row">
+						<div class="col-md-7">
+							<?php echo do_shortcode( '[static_block_content id="988"]' ); ?>
+						</div>
+						<div class="col-md-5">
+								<div class="owl-carousel">
+									<?php echo do_shortcode( '[static_block_content id="975"]' ); ?>
+								</div>	
+							<script>
+							jQuery('.owl-carousel').owlCarousel({
+								items:1,
+								lazyLoad:false,
+								loop:true,
+								margin:10,
+								   autoplay:true,
+    autoplayTimeout:7000,
+    autoplayHoverPause:true
+							});		
+							</script>						
+						</div>
+				 </div>
+				  
+			
+			</div>
+			<div class="middle-container">
+			<div class="wrapper">
+			 <div class="row">
+			 	<div class="col-md-5 center-align">
+			 			<?php echo do_shortcode( '[static_block_content id="1005"]' ); ?>
+			 	</div>
+			 	<div class="col-md-7">
+			 		<?php echo do_shortcode( '[static_block_content id="1006"]' ); ?>
+					<?php echo do_shortcode( '[static_block_content id="989"]' ); ?>
+				</div>
+			 </div>
+			  </div>
+			</div>
+			
+    </section><!-- #content -->
+
+<section id="crowd-funds-content" role="main" class="clearfix animated">
+<div class="crowd-funds">
+<?php echo do_shortcode( '[static_block_content id="1008"]' ); ?>
+</div>
+</section>
+<div class="clearfix"></div>
+		<div class="footer-container">
+			<div class="wrapper">
+			<div class="row footer-wrapper">
+				<?php echo do_shortcode( '[static_block_content id="990"]' ); ?>
+			</div>
+            <div class="row ">
+				<div class="col-md-3">
+			
+				<div class="footer-block-content">
+					<div class="news_post_block">
+							<?php 
+							 	$args = array( 'category' => 1, 'post_type' =>  'post','posts_per_page'=>2 ); 
+							    $postslist = get_posts( $args );    
+							    foreach ($postslist as $post) :  setup_postdata($post); 
+							    ?>
+							    <div class="post_row">
+							    	<a href="<?php the_permalink(); ?>">
+							    	<?php 
+							    		if ( has_post_thumbnail() ) {
+												echo get_the_post_thumbnail( $post->ID, array(60,60) );
+										}
+										else
+										{
+											?>
+												<img class="avatar" src="https://placeholdit.imgix.net/~text?txtsize=13&txt=avatar&w=60&h=60" />
+											<?php
+										}
+							    	?>
+									</a>
+									<div class="content_post">
+										<a href="<?php the_permalink(); ?>" class="news_post_title"><?php the_title(); ?></a>
+										<div class="news_post_des"><?php echo wp_trim_words( get_the_content(), 10 ); ?></div>
+									</div>
+									<div class="clearfix"></div>
+								</div> 
+							    <?php endforeach;
+							 ?>
+					</div>
+				</div>
+				</div>
+
+				<div class="col-md-3">
+				
+				<div class="footer-block-content">
+					<?php echo do_shortcode( '[static_block_content id="992"]' ); ?>
+				</div>
+				</div>
+				<div class="col-md-3">
+				
+				<div class="footer-block-content">
+					<?php echo do_shortcode( '[static_block_content id="993"]' ); ?>
+				</div>
+				</div>
+				<div class="col-md-3">
+				
+				<div class="footer-block-content">
+					<?php echo do_shortcode( '[static_block_content id="994"]' ); ?>
+				</div>
+				</div>
+			</div>
+               </div> 
+				</div>
+<?php get_footer(); ?>

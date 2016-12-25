@@ -1,0 +1,25 @@
+/* Default left, right, top, bottom margin is 2cm */
+/* First page, 10 cm margin on top */
+@page { background: transparent !important;}
+@page :first {
+  margin-top: 0 
+}
+body {
+  -webkit-print-color-adjust: exact;
+  background: transparent !important;
+}
+#download-pdf{
+	-webkit-print-color-adjust: exact;
+	background: transparent !important;
+}
+ 
+/* Left pages, a wider margin on the left */
+@page :left {
+  margin-left: 0;
+  margin-right: 0;
+}
+ 
+@page :right {
+  margin-left: 0;
+  margin-right: 0;
+}

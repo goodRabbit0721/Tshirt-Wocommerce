@@ -1,0 +1,24 @@
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+#payment{background: #fff!important; }
+#payment .payment_methods{background: #fff; padding-left: 0px!important; }
+#payment .payment_methods li{list-style: none; padding-left: 0px; }
+.top-links p{margin-top: 10px; display: inline-block; }
+.top-links p a{ text-decoration: none; color: #fff; }
+.footer-links{text-align: center; text-transform: capitalize; }
+.footer-links a{text-decoration: none; margin-left: 15px; }
+@media only screen and (max-width: 960px){
+	.top-links p{display: none;}
+	.top-links #open-pageslide{ display: inline-block; }
+}

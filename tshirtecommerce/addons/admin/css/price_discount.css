@@ -1,0 +1,20 @@
+/**
+ * @author tshirtecommerce - www.tshirtecommerce.com
+ * @date: 2015-09-19
+ *
+ * API
+ *
+ * @copyright  Copyright (C) 2015 tshirtecommerce.com. All rights reserved.
+ * @license    GNU General Public License version 2 or later; see LICENSE
+ *
+ */
+#price-discount{padding: 0;margin: 0;}
+#price-discount .tab-content{border: none;}
+#price-discount .table-header{background-color: #f9f9f9;}
+#price-discount table tr th,#price-discount table tr td{text-align: center;}
+#price-discount td a{border-radius: 50%;-moz-border-radius: 50%;-webkit-border-radius:50%;background-color: #d9534f;color: #fff;padding: 0px 2px;}
+#price-discount tr .col-sm-2 .col-sm-6{padding-left: 0px;text-align: left;}
+.deleterow{cursor:pointer}
+#price-discount .lblsize{font-weight: bold;padding-left:0;}
+#price-discount table tr td label.col-sm-6{line-height: 2.2em; padding-left: 0;text-align: left;}
+.lblsize{padding-bottom: 2px;}
